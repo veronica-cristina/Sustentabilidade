@@ -50,7 +50,7 @@ nav ul li a:hover {
 }
 
 .hero {
-  background-color: var(CORNFLOWERBLUE;);
+  background-color: var("CORNFLOWERBLUE");
   padding: 2rem;
   text-align: center;
 }
